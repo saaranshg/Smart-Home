@@ -43,5 +43,7 @@ This project automates home appliances using **Arduino Uno, DHT11, LDR, Ultrason
 
 
 ### 🎥 Demo Video  
-https://drive.google.com/file/d/1V5BEhOe6beoYtIyCD-7tCvfB_LDa67dM/view?usp=sharing
+🎥 [Watch the Project in Action](https://drive.google.com/file/d/1V5BEhOe6beoYtIyCD-7tCvfB_LDa67dM/view?usp=sharing)
+
+
 ---
