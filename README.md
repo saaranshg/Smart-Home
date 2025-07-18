@@ -48,5 +48,9 @@ This project automates home appliances using **Arduino Uno, DHT11, LDR, Ultrason
 
 [Watch the Project in Action](https://drive.google.com/file/d/1V5BEhOe6beoYtIyCD-7tCvfB_LDa67dM/view?usp=sharing)
 
+## 👨‍💻Simulation
+
+[TinkerCad Circuit Simulation](https://www.tinkercad.com/things/9YfGhyIJMuZ-smart-home?sharecode=r3gvLf2GcsadYmqU5CGEryHAg4Gbj4ca76SKJvIMOGs)
+
 
 ---
