@@ -35,7 +35,6 @@ This project automates home appliances using **Arduino Uno, DHT11, LDR, Ultrason
 
 ## 📸 Proof of Working  
 
-![WhatsApp Image 2025-03-21 at 16 50 37_af296bab](https://github.com/user-attachments/assets/a6447118-ad25-422f-8e1d-564e6a3b966a)
 
 ![WhatsApp Image 2025-03-21 at 16 50 17_6829046d](https://github.com/user-attachments/assets/874e5270-61c7-4042-8fff-cfb92aebdc8c)
 
