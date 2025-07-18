@@ -17,6 +17,7 @@ This project automates home appliances using **Arduino Uno, DHT11, LDR, Ultrason
 - **Power Supply**: 5V/12V as required
 
 ## 🏗️ Circuit Diagram:
+![circuit Diagram](https://github.com/saaranshg/Smart-Home/blob/main/Circuit%20Diagram.png)
 ## 🛠️ How It Works
 
 1. **Temperature-Based Fan Control**  
@@ -36,9 +37,9 @@ This project automates home appliances using **Arduino Uno, DHT11, LDR, Ultrason
 ## 📸 Proof of Working  
 
 
-![WhatsApp Image 2025-03-21 at 16 50 17_6829046d](https://github.com/user-attachments/assets/874e5270-61c7-4042-8fff-cfb92aebdc8c)
+![Prototype](https://github.com/user-attachments/assets/874e5270-61c7-4042-8fff-cfb92aebdc8c)
 
-![WhatsApp Image 2025-03-21 at 16 50 17_a939c33f](https://github.com/user-attachments/assets/1ce2dabd-b450-4b50-9a86-a783694ce689)
+![Prototype Working](https://github.com/user-attachments/assets/1ce2dabd-b450-4b50-9a86-a783694ce689)
 
 
 ### 🎥 Demo Video  
